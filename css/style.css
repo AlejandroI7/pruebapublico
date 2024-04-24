@@ -1,0 +1,40 @@
+header {
+    background-color: aqua;
+    color: rgb(255, 255, 255);
+    border-radius: 2cqmax;
+}
+
+main {
+    background-color: rgb(250, 147, 73);
+    color: green;
+    border-radius: 2cqmax;
+}
+
+footer {
+    background-color: aqua;
+    color: rgb(255, 255, 255);
+    border-radius: 2cqmax;
+}
+
+p {
+    color: blue;
+}
+
+#h2 {
+    color: white;
+}
+
+#seccionprincipal {
+    background-color: rgb(145, 145, 233); 
+    border-radius: 2cqmax;
+}
+
+#nav {
+    border-radius: 2cqmax;
+}
+
+#div {
+    color: white;
+    background-color: darkgreen;
+    border-radius: 2cqmax;
+}
